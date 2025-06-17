@@ -2,6 +2,8 @@
 
 1. To Website: https://smartjourney.fun
 
+(Note: Our server is set up in Hong Kong. Therefore, if you access it from other continents, the loading might be slow.)
+
 **You can use this default account to login in admin interface:**
 ```
 User: admin
