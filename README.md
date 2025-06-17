@@ -1,5 +1,5 @@
 # URL-to-SmartJourney
-To Website: https://smartjourney.fun
+To Website: https://smartjourney.fun \
 **You can use this default account to login in admin interface: **
 ```
 User: admin
